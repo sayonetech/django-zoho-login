@@ -1,0 +1,17 @@
+.project
+.pydevproject
+*.swp
+*~
+*.pyc
+.DS_Store
+*.orig
+.installed.cfg
+__minitage__*
+db.sqlite3
+.nfs*
+v/*
+node_modules
+local.py
+.idea
+google_credentials.txt
+debug.log
